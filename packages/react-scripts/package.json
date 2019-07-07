@@ -1,6 +1,6 @@
 {
   "name": "@sham/my-scripts",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
     "utils"
   ],
   "bin": {
-    "react-scripts": "./bin/react-scripts.js"
+    "my-scripts": "./bin/react-scripts.js"
   },
   "types": "./lib/react-app.d.ts",
   "dependencies": {
