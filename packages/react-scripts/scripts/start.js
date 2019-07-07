@@ -12,7 +12,7 @@
 process.env.BABEL_ENV = 'development';
 process.env.NODE_ENV = 'development';
 
-console.log('-------------starting-------local link------');
+console.log('-------------starting---again ----local link------');
 
 // Makes the script crash on unhandled rejections instead of silently
 // ignoring them. In the future, promise rejections that are not handled will
